@@ -1,0 +1,11 @@
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\bin\Debug\AksuSirketi.exe.config
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\bin\Debug\AksuSirketi.exe
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\bin\Debug\AksuSirketi.pdb
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.csprojAssemblyReference.cache
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.Form1.resources
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.Properties.Resources.resources
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.csproj.GenerateResource.cache
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.csproj.CoreCompileInputs.cache
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.exe
+c:\users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.pdb
+C:\Users\sesra\source\repos\AksuSirketi\AksuSirketi\obj\Debug\AksuSirketi.Form2.resources
